@@ -1,0 +1,21 @@
+{
+    "homePageGoogle_searchBar_comboBox": "input[title='Ara']",
+    "homePageGoogle_searchFirstResult_listBox": "ul[role='listbox'] > li[role]:nth-child(1) div[role='option'] > div:nth-child(1) > span",
+    "resultsPageGoogle_resultsFoundTeknasyon_text": "link[href='https://teknasyon.com/']",
+    "resultsPageGoogle_resultsFoundTeknasyonSelect_text": "//a[@href='https://teknasyon.com/']//h3[@class][contains (text(), 'Teknasyon')]",
+    "footer_career_text": "li[id='menu-item-124'] li[id='menu-item-128'] a",
+    "careerPage_careerDescription_text": "div[class='b-cell b-cell-left '] div[class='b-desc'] p",
+    "careerPage_jobAdsTestAutomationEngineer_text": "//div[@class='jlb-action']//a[@title='Test Otomasyon Mühendisi']",
+    "jobAdsPage_applyForJob_button": "a[class='button button-blue'] span",
+    "jobaApplicationFormPage_allWarningMessages_text": "span[id='jobNameSurname-error'], span[id='jobEmail-error'],  span[id='jobFile-error'], span[id='jobLet-error'], span[id='recaptchaControl-error']",
+    "jobaApplicationFormPage_applyForJob_button": "button[class='button button-blue'] span",
+    "jobaApplicationFormPage_uploadCV_button": "label[for='jobFile']",
+    "jobaApplicationFormPage_uploadCV2_button": "#jobFile",
+    "jobaApplicationFormPage_nameSurname_textBox": "input[id='jobNameSurname']",
+    "jobaApplicationFormPage_email_textBox": "input[id='jobEmail']",
+    "jobaApplicationFormPage_recaptcha_checkBox": "span[id='recaptcha-anchor']",
+    "jobaApplicationFormPage_obligationToInform_checkBox": "label[for='jobLet'] span[class='ci-effect']",
+    "jobaApplicationFormPage_notifyMeDifferentPositions_checkBox": "label[for='jobDifferentPosition'] span[class='ci-effect']",
+    "jobaApplicationFormPage_notifyMeTeknasyonGroup_checkBox": "label[for='jobGroupOpportunity'] span[class='ci-effect']",
+    "jobApplicationFormSuccessPage_applicationReceived_text": "div[class='title text-center mb-0 aos-init aos-animate'] h2"
+}
